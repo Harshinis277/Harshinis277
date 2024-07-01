@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshini Sridhar</h1>
-<h3 align="center">An aspiring software engineer skilled in AIML, programming languages, and tech tools, committed to contributing to learning and growth in software development.</h3>
+<h3 align="center">"An aspiring software engineer with a background in AIML, programming languages, and tech tools, dedicated to continuous learning and contributing to growth in software development."</h3>
 
 - 🔭 I’m currently working on **Information Retrieval using LLM**
 
